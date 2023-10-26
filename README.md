@@ -3,7 +3,7 @@
 # Feladat
 Feladatunk egy olyan képtérkép volt ahol egy híd, egy szakgimnázium és egy gimázium található
 
-## Feladat felosztás
+## Megtervezés
 Közös megbeszélés alapján trelloban osztottuk szét a munkákat, hogy ki mit készít el.
 ![trello](https://github.com/AIGyuri/tesztproject/assets/145447217/ccc90226-d53a-4c8d-8a56-5418d71029f8)
 
