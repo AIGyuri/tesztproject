@@ -9,8 +9,6 @@ Ez a projekt egy híd építését dokumentálja. A híd a város központjában
 - A híd stabil és biztonságos közlekedést biztosít a gyalogosok és járművek számára.
 - A híd modern és esztétikus megjelenésű, hozzájárulva a város látványához.
 
-### Telepítés
-Nincs szükség telepítésre, mivel a projekt egy fizikai híd megépítéséről szól.
 
 ## Szeszi Projekt
 
@@ -22,7 +20,7 @@ Az első iskolát a városban régen alapították, és ennek a projektnek a cé
 - A tanulók kényelmes és modern környezetben tanulhatnak.
 
 
-## A Második Iskola Projekt
+## Pag Projekt
 
 ### Leírás
 A második iskola projekt egy teljesen új iskola létrehozásáról szól a város külvárosában. Gyuri, András és Petra közösen tervezték és építették meg ezt az iskolát.
@@ -31,18 +29,10 @@ A második iskola projekt egy teljesen új iskola létrehozásáról szól a vá
 - Az iskola modernebb oktatási módszereket alkalmaz, és környezetbarát megoldásokkal épült, hogy fenntartható legyen.
 - Az iskola a környékbeli gyerekeknek biztosít oktatási lehetőséget.
 
-### Telepítés
-Nincs szükség telepítésre, mivel az iskolaprojekt egy fizikai épület létrehozásáról szól.
 
 ## Készítők
 - Gyuri
 - András
 - Petra
-
-## Kapcsolat
-Kapcsolatba léphet velünk a következő e-mail címeken:
-- Gyuri: gyuri@example.com
-- András: andras@example.com
-- Petra: petra@example.com
 
 Köszönjük, hogy érdeklődést mutat az általunk készített projektek iránt!
