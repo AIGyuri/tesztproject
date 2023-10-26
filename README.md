@@ -1,14 +1,15 @@
 # Képtérkép.
 ---------------
-# Munka
+# Feladat
 Feladatunk egy olyan képtérkép volt ahol egy híd, egy szakgimnázium és egy gimázium található
 
-## feladat felosztás
-Közös megbeszélés alapján Trelloban osztottuk szét a munkákat, hogy ki mit készít el.
-[Trello]
+## Feladat felosztás
+Közös megbeszélés alapján trelloban osztottuk szét a munkákat, hogy ki mit készít el.
+![trello](https://github.com/AIGyuri/tesztproject/assets/145447217/ccc90226-d53a-4c8d-8a56-5418d71029f8)
 
 ### András feladata volt a Szeghalom-Berettyó híd elkészítése.
 1 oldalas, 4 képes weboldal ahol a hídat mutatja be.
+
 
 **Dokumentumok:**
 * hid.html
