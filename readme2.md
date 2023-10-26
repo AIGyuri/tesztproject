@@ -10,27 +10,26 @@ Közös megbeszélés alapján trelloban osztottuk szét a munkákat, hogy ki mi
 ## Híd Projekt
 
 ### Leírás
-Ez a projekt egy híd építését dokumentálja. A híd a város központjában található és fontos szerepet játszik a közlekedésben. A híd megtervezése és megépítése három fiatal mérnök, Gyuri, András és Petra közös munkájának eredménye.
+Ez a projekt egy híd oldalát dokumentálja. A híd a város kül területén található. A híd oldalának megtervezését és elkészítését András készítette.
 
 ### Funkciók
-- A híd stabil és biztonságos közlekedést biztosít a gyalogosok és járművek számára.
-- A híd modern és esztétikus megjelenésű, hozzájárulva a város látványához.
+- A híd esztétikus megjelenésű, hozzájárulva a város látványához.
 
 
 ## Szeszi Projekt
 
 ### Leírás
-Az első iskolát a városban régen alapították, és ennek a projektnek a célja a meglévő épület felújítása és modernizálása. A projektet Gyuri, András és Petra együttműködésben valósították meg.
+A Szeszi projekt egy iskola létrehozásáról szól a város külvárosában. Gyuri tervezte és készítette el a Szeszi oldalát
 
 ### Funkciók
-- Az iskola új tantermekkel, korszerű oktatási technológiával és sportlétesítményekkel bővült.
+- Az iskola új tantermekkel, korszerű oktatási technológiával bővült.
 - A tanulók kényelmes és modern környezetben tanulhatnak.
 
 
 ## Pag Projekt
 
 ### Leírás
-A második iskola projekt egy teljesen új iskola létrehozásáról szól a város külvárosában. Gyuri, András és Petra közösen tervezték és építették meg ezt az iskolát.
+A Pag projekt egy iskola létrehozásáról szól a város külvárosában. Petra tervezte és készítette el a Pag oldalát
 
 ### Funkciók
 - Az iskola modernebb oktatási módszereket alkalmaz, és környezetbarát megoldásokkal épült, hogy fenntartható legyen.
